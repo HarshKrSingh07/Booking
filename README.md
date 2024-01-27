@@ -1,6 +1,9 @@
 #Flight Ticket Booking Website
 Welcome to the Flight Ticket Booking Website repository! This web application allows users to easily search and book flight tickets online. The project is built using HTML, CSS, and JavaScript.
 
+![Alt Text](homepage.jpg)
+
+![Alt Text](second.jpg)
 Features
 Search Flights: Users can search for available flights based on various criteria such as destination, date, and class.
 Booking: Secure and easy flight booking process.
